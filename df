@@ -1,0 +1,59 @@
+[33mcommit e500705ea213a1d0b9cef7fe11b68004d47effa5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Revan12222 <space3640@gmail.com>
+Date:   Sat Aug 16 13:47:09 2025 -0700
+
+    private site generator working
+
+[33mcommit 96fee865ec88473479a42a04a1f49c263eac0de6[m
+Author: Revan12222 <space3640@gmail.com>
+Date:   Thu Aug 7 22:57:02 2025 -0700
+
+    parentnode
+
+[33mcommit d8ca64f9254c1997eda1aa6d1f46056b970f056b[m
+Author: Revan12222 <space3640@gmail.com>
+Date:   Wed Aug 6 22:32:13 2025 -0700
+
+    added Leafnode
+
+[33mcommit 4c1244ba3a31c63d28c62bef9eb3b23a363ecc8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Revan12222 <space3640@gmail.com>
+Date:   Tue Aug 5 22:59:04 2025 -0700
+
+    htmlnode
+
+[33mcommit e8d1257a61c1d1fba88b981c42973e19fcec69a6[m
+Author: Revan12222 <space3640@gmail.com>
+Date:   Sun Aug 3 22:22:35 2025 -0700
+
+    added main and textnode
+
+[33mcommit 7d007d5ddbfa0b35013b09683b5df2005da9c645[m
+Author: Tyler Sperlich <131635051+Revan12222@users.noreply.github.com>
+Date:   Thu Jul 31 19:27:26 2025 -0700
+
+    Update index.html
+
+[33mcommit cbf7b6210afe8fcc0e780735e3b98e64ea6100b5[m
+Author: Tyler Sperlich <131635051+Revan12222@users.noreply.github.com>
+Date:   Thu Jul 31 19:26:33 2025 -0700
+
+    Create styles.css
+
+[33mcommit bd27eb4225ec109c409ec59ed5fecb05a6bb3d96[m
+Author: Tyler Sperlich <131635051+Revan12222@users.noreply.github.com>
+Date:   Thu Jul 31 19:21:53 2025 -0700
+
+    Update index.html
+
+[33mcommit fe874d792856ab4484d5a5e8dc3de230afb92b79[m
+Author: Tyler Sperlich <131635051+Revan12222@users.noreply.github.com>
+Date:   Thu Jul 31 19:19:33 2025 -0700
+
+    Create index.html
+
+[33mcommit 6827cbe9f37d0b90edefadf0d0fcf8751891b178[m
+Author: Tyler Sperlich <131635051+Revan12222@users.noreply.github.com>
+Date:   Thu Jul 31 19:12:25 2025 -0700
+
+    Initial commit
