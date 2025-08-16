@@ -1,3 +1,5 @@
+import sys
+
 from textnode import TextNode
 from copydir import copy_dir
 from pagegen import generate_pages_recursive
@@ -33,9 +35,15 @@ the **same** even with inline stuff
 
 """
     #markdown_to_html_node(md)
-    copy_dir("static","public")
+    basepath = "/"
+    if len(sys.argv) > 1:
+        basepath = sys.argv[1]
+        print(sys.argv[1])
+    source = basepath + "static"
+    destination = basepath + "public"
+    copy_dir("static","docs")
     #print(extract_title(md))
     #generate_page("content/index.md","template.html", "public/index.html")
-    #generate_pages_recursive("content","template.html","public")
+    generate_pages_recursive("content","template.html","docs",basepath)
 
 main()
